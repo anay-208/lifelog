@@ -79,7 +79,7 @@ export default function Page() {
           </div>
 
           <Button className="mt-4" asChild>
-            <Link href={route.finance}>View My Fiannces</Link>
+            <Link href={route.finance}>View My Finances</Link>
           </Button>
         </Card>
 
