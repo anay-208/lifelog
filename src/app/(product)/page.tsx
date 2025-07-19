@@ -1,5 +1,5 @@
 import Icon from "@/assets/icon.png";
-import Demo1 from "@/assets/demo1.png";
+import Demo1 from "@/assets/demo1_new.png";
 import { serverAuth } from "@/auth/actions";
 import { Button } from "@/components/ui/button";
 import { CollapsibleColumn } from "@/components/ui/collapsible";
@@ -67,7 +67,7 @@ export default async function Home() {
               <Illustration1 className="h-[130%]" />
             </div>
           </div>
-          <div className="rounded-lg bg-[#F6F6FA] border border-border shadow-lg min-w-2xl">
+          <div className="rounded-lg bg-[#F6F6FA] border border-border shadow-lg min-w-2xl mt-8">
             <div className="flex gap-2 p-3">
               <div className="size-3 rounded-full bg-main-4/10" />
               <div className="size-3 rounded-full bg-main-4/10" />

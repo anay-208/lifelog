@@ -90,7 +90,7 @@ export default function Page() {
               <h2>My Goals</h2>
             </CardTitle>
           </div>
-          <div className="mt-1 mt-4 flex grow flex-col rounded-xl py-1 text-[0.9rem] font-medium">
+          <div className=" mt-4 flex grow flex-col rounded-xl py-1 text-[0.9rem] font-medium">
             <Suspense>
               <UserRecentGoals />
             </Suspense>
